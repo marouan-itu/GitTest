@@ -14,7 +14,7 @@ public class HeartOfHearts {
             bottomPart(n);
         }
     }
-
+//Test
     public static void topHalf(int n) {
         int whiteHeart1 = n-1;
         int blackHeart1 = n;
